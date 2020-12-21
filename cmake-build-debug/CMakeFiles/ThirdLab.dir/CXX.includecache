@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rusdrunker/Documents/ThirdLab/main.cpp
+iostream
+-
+stack
+-
+string
+-
+sstream
+-
+exception
+-
+
